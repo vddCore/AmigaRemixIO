@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigaRemixIO", "AmigaRemixIO\AmigaRemixIO.csproj", "{351B23A1-3B09-4874-B239-DC88978D3A79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigaRemixIO", "AmigaRemixIO\AmigaRemixIO.csproj", "{6C20E87E-1B94-44CB-9E50-A41461E76375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigaRemixIO.Test", "AmigaRemixIO.Test\AmigaRemixIO.Test.csproj", "{370FF610-646C-4D04-B418-689DA18BDCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{351B23A1-3B09-4874-B239-DC88978D3A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{351B23A1-3B09-4874-B239-DC88978D3A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{351B23A1-3B09-4874-B239-DC88978D3A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{351B23A1-3B09-4874-B239-DC88978D3A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C20E87E-1B94-44CB-9E50-A41461E76375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C20E87E-1B94-44CB-9E50-A41461E76375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C20E87E-1B94-44CB-9E50-A41461E76375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C20E87E-1B94-44CB-9E50-A41461E76375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370FF610-646C-4D04-B418-689DA18BDCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370FF610-646C-4D04-B418-689DA18BDCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370FF610-646C-4D04-B418-689DA18BDCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370FF610-646C-4D04-B418-689DA18BDCE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
